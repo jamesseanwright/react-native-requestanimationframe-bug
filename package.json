@@ -2,7 +2,7 @@
   "name": "react-native-requestanimationframe-bug",
   "version": "0.0.1",
   "description": "Demo of requestAnimationFrame bug in React Native",
-  "repository": "https://github.com/jamesseanwright/raf-bug",
+  "repository": "https://github.com/jamesseanwright/react-native-requestanimationframe-bug",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
