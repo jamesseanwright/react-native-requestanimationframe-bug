@@ -1,4 +1,4 @@
-package uk.co.jamesswright.reactanimationframenativeexample;
+package uk.co.jamesswright.rafbug;
 
 import android.app.Activity;
 import android.content.Intent;

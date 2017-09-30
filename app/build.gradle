@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion '25.0.0'
     defaultConfig {
-        applicationId "uk.co.jamesswright.reactanimationframenativeexample"
+        applicationId "uk.co.jamesswright.rafbug"
         minSdkVersion 25
         targetSdkVersion 25
         versionCode 1
